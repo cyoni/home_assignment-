@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cyoni\\source\\repos\\home_assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F1AF9E-28BF-4404-BD29-49D8D69A06B9}|home_assignment\\home_assignment.csproj|c:\\users\\cyoni\\source\\repos\\home_assignment\\home_assignment\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F1AF9E-28BF-4404-BD29-49D8D69A06B9}|home_assignment\\home_assignment.csproj|solutionrelative:home_assignment\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB18773-5DB1-47E7-9689-2530FA2C2DF1}|Repository\\Repositories.csproj|c:\\users\\cyoni\\source\\repos\\home_assignment\\repository\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB18773-5DB1-47E7-9689-2530FA2C2DF1}|Repository\\Repositories.csproj|solutionrelative:repository\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71FDA482-6DED-4448-AC65-BB86E4470AE5}|Service\\Services.csproj|c:\\users\\cyoni\\source\\repos\\home_assignment\\service\\tasksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71FDA482-6DED-4448-AC65-BB86E4470AE5}|Service\\Services.csproj|solutionrelative:service\\tasksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569A768C-4DC0-49A6-9D56-27FC07D87E40}|Models\\Models.csproj|c:\\users\\cyoni\\source\\repos\\home_assignment\\models\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{569A768C-4DC0-49A6-9D56-27FC07D87E40}|Models\\Models.csproj|solutionrelative:models\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569A768C-4DC0-49A6-9D56-27FC07D87E40}|Models\\Models.csproj|c:\\users\\cyoni\\source\\repos\\home_assignment\\models\\taskrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{569A768C-4DC0-49A6-9D56-27FC07D87E40}|Models\\Models.csproj|solutionrelative:models\\taskrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71FDA482-6DED-4448-AC65-BB86E4470AE5}|Service\\Services.csproj|c:\\users\\cyoni\\source\\repos\\home_assignment\\service\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71FDA482-6DED-4448-AC65-BB86E4470AE5}|Service\\Services.csproj|solutionrelative:service\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F1AF9E-28BF-4404-BD29-49D8D69A06B9}|home_assignment\\home_assignment.csproj|c:\\users\\cyoni\\source\\repos\\home_assignment\\home_assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2F1AF9E-28BF-4404-BD29-49D8D69A06B9}|home_assignment\\home_assignment.csproj|solutionrelative:home_assignment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569A768C-4DC0-49A6-9D56-27FC07D87E40}|Models\\Models.csproj|c:\\users\\cyoni\\source\\repos\\home_assignment\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{569A768C-4DC0-49A6-9D56-27FC07D87E40}|Models\\Models.csproj|solutionrelative:models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB18773-5DB1-47E7-9689-2530FA2C2DF1}|Repository\\Repositories.csproj|c:\\users\\cyoni\\source\\repos\\home_assignment\\repository\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FB18773-5DB1-47E7-9689-2530FA2C2DF1}|Repository\\Repositories.csproj|solutionrelative:repository\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskEntity.cs",
+              "DocumentMoniker": "C:\\Users\\cyoni\\source\\repos\\home_assignment\\Models\\TaskEntity.cs",
+              "RelativeDocumentMoniker": "Models\\TaskEntity.cs",
+              "ToolTip": "C:\\Users\\cyoni\\source\\repos\\home_assignment\\Models\\TaskEntity.cs",
+              "RelativeToolTip": "Models\\TaskEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:10:50.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\cyoni\\source\\repos\\home_assignment\\Models\\TaskRequestDto.cs",
+              "RelativeDocumentMoniker": "Models\\TaskRequestDto.cs",
+              "ToolTip": "C:\\Users\\cyoni\\source\\repos\\home_assignment\\Models\\TaskRequestDto.cs",
+              "RelativeToolTip": "Models\\TaskRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:05:48.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TasksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cyoni\\source\\repos\\home_assignment\\Repository\\TasksRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\TasksRepository.cs",
+              "ToolTip": "C:\\Users\\cyoni\\source\\repos\\home_assignment\\Repository\\TasksRepository.cs",
+              "RelativeToolTip": "Repository\\TasksRepository.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAADoAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:57:32.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Services",
+              "DocumentMoniker": "C:\\Users\\cyoni\\source\\repos\\home_assignment\\Service\\Services.csproj",
+              "RelativeDocumentMoniker": "Service\\Services.csproj",
+              "ToolTip": "C:\\Users\\cyoni\\source\\repos\\home_assignment\\Service\\Services.csproj",
+              "RelativeToolTip": "Service\\Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T18:04:30.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repositories",
+              "DocumentMoniker": "C:\\Users\\cyoni\\source\\repos\\home_assignment\\Repository\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repositories.csproj",
+              "ToolTip": "C:\\Users\\cyoni\\source\\repos\\home_assignment\\Repository\\Repositories.csproj",
+              "RelativeToolTip": "Repository\\Repositories.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T18:04:19.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Models",
+              "DocumentMoniker": "C:\\Users\\cyoni\\source\\repos\\home_assignment\\Models\\Models.csproj",
+              "RelativeDocumentMoniker": "Models\\Models.csproj",
+              "ToolTip": "C:\\Users\\cyoni\\source\\repos\\home_assignment\\Models\\Models.csproj",
+              "RelativeToolTip": "Models\\Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T18:03:20.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasksService.cs",
+              "DocumentMoniker": "C:\\Users\\cyoni\\source\\repos\\home_assignment\\Service\\TasksService.cs",
+              "RelativeDocumentMoniker": "Service\\TasksService.cs",
+              "ToolTip": "C:\\Users\\cyoni\\source\\repos\\home_assignment\\Service\\TasksService.cs",
+              "RelativeToolTip": "Service\\TasksService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:40:14.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cyoni\\source\\repos\\home_assignment\\home_assignment\\appsettings.json",
+              "RelativeDocumentMoniker": "home_assignment\\appsettings.json",
+              "ToolTip": "C:\\Users\\cyoni\\source\\repos\\home_assignment\\home_assignment\\appsettings.json",
+              "RelativeToolTip": "home_assignment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T18:26:09.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\cyoni\\source\\repos\\home_assignment\\home_assignment\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "home_assignment\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\cyoni\\source\\repos\\home_assignment\\home_assignment\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "home_assignment\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:44:50.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
